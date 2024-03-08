@@ -3,37 +3,36 @@ Repositorio tulevaa näyttöprojektia varten. Ohjelmisto ja sovellus käytettyje
 
 Hyvityksenä palvelusta autokaupan tulee valita kuukausittainen palvelupaketti, jonka hinta perustuu myynti-ilmoitusten ja muiden palveluiden määrälle. Yksityiskäyttäjiltä laskutetaan vaatimaton summa sen mukaan, kuinka pitkään he haluavat oman myynti-ilmoituksensa näkyvän sivustolla. Helppokäyttöisessä käyttöliittymässä yksityiskäyttäjien ja autokauppojen on helppo tarkastella toistensa myynti-ilmoituksia laajan haku kriteeri valikoiman ansiosta, johon kuuluu haku esimerkiksi auton merkin, mallin, mittarilukeman, värin, polttoaineen tai korimallin mukaan.
 
-Title: Näyttöprojekti
-Author: Maria Rantanen
-Date: 26/01/2024
-Version: 1.0
-Description: Application for car listing
+Title: Näyttöprojekti  
+Author: Maria Rantanen  
+Date: 26/01/2024  
+Version: 1.0  
+Description: Application for car listing  
 
-Etusivu
-10 viimeisintä ilmoitusta
-Haku
-Valikko
-Sivut
-Etusivu
-Listaus myynti-ilmoituksista (lajittelu valitun kriteerin mukaan)
-Autokaupat
-Asiakaspalvelu
-Listaus
-Kuvat
-Ajoneuvon tiedot
-Tarkat tiedot
-Myyjän tiedot
-yhdeydenottolomake
-Hakulomake
-Ajoneuvo
-Tyyppi
-Moottori
-Merkki
-Malli
-Vuosimalli
-Polttoaine
-Väri
-Hinta
-Kilometrit
+Etusivu  
+10 viimeisintä ilmoitusta  
+Haku  
+Valikko  
+Sivut  
+Etusivu  
+Listaus myynti-ilmoituksista (lajittelu valitun kriteerin mukaan)  
+Autokaupat  
+Asiakaspalvelu  
+Listaus  
+Kuvat  
+Ajoneuvon tiedot  
+Tarkat tiedot  
+Myyjän tiedot  
+yhdeydenottolomake  
+Ajoneuvo  
+Tyyppi  
+Moottori  
+Malli  
+Merkki    
+Vuosimalli  
+Polttoaine  
+Väri  
+Hinta  
+Kilometrit  
 Vaihteisto
 Varusteet
