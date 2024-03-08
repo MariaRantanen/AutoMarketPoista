@@ -9,30 +9,39 @@ Date: 26/01/2024
 Version: 1.0  
 Description: Application for car listing  
 
-Etusivu  
-10 viimeisintä ilmoitusta  
-Haku  
-Valikko  
-Sivut  
+## Etusivu  
+
+- 10 viimeisintä ilmoitusta  
+- Haku  
+- Valikko 
+
+
+## Sivut   
+
 Etusivu  
 Listaus myynti-ilmoituksista (lajittelu valitun kriteerin mukaan)  
 Autokaupat  
 Asiakaspalvelu  
-Listaus  
-Kuvat  
-Ajoneuvon tiedot  
-Tarkat tiedot  
-Myyjän tiedot  
-yhdeydenottolomake  
-Ajoneuvo  
-Tyyppi  
-Moottori  
-Malli  
-Merkki    
-Vuosimalli  
-Polttoaine  
-Väri  
-Hinta  
-Kilometrit  
+
+## Listaus
+
+-Kuvat  
+-Ajoneuvon tiedot  
+-Tarkat tiedot  
+-Myyjän tiedot  
+-yhdeydenottolomake  
+
+## Hakulomake
+
+-Ajoneuvo  
+-Tyyppi  
+-Moottori  
+-Malli  
+-Merkki    
+-Vuosimalli  
+-Polttoaine  
+-Väri  
+-Hinta  
+-Kilometrit  
 Vaihteisto
 Varusteet
