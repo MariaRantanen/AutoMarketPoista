@@ -44,3 +44,7 @@ Asiakaspalvelu
 -Kilometrit  
 -Vaihteisto  
 -Varusteet  
+
+
+## Figma-suunnitelma
+![image](https://github.com/MariaRantanen/AutoMarketPoista/assets/122267909/96db3e57-6340-4e2c-b541-b8a003aa85e0)
